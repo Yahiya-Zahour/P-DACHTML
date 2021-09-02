@@ -8,18 +8,24 @@ button{
     
 }
 body{
-   background: linear-gradient(67deg,white,black);
+   background: linear-gradient(61deg,pink,black);
 }
 h1{
-    color: maroon;
+    color: rgb(252, 252, 252);
 }
 h6{
-    color: mediumaquamarine;
+    color: rgb(0, 255, 170);
 }
 h5{
-    color: orangered;
+    color: rgb(255, 255, 255);
 }
 h2{
-    color:violet;
-    font-size: larger;
+    color:wheat;
+
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
 }
