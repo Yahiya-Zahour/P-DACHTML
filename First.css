@@ -1,0 +1,25 @@
+button{
+    background: linear-gradient(45deg,red,white,blue);
+    border: 2px solid maroon;
+    border-radius: 0px 10px 0px 15px;
+    margin: 110px;
+    padding: 20px;
+    
+    
+}
+body{
+   background: linear-gradient(67deg,white,black);
+}
+h1{
+    color: maroon;
+}
+h6{
+    color: mediumaquamarine;
+}
+h5{
+    color: orangered;
+}
+h2{
+    color:violet;
+    font-size: larger;
+}
