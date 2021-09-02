@@ -1,9 +1,9 @@
 button{
     background: linear-gradient(45deg,red,white,blue);
-    border: 2px solid maroon;
+    border: 2px solid white;
     border-radius: 0px 10px 0px 15px;
-    margin: 110px;
-    padding: 20px;
+    margin: 11px;
+    padding: 11px;
     
     
 }
